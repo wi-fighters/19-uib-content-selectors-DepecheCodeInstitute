@@ -11,17 +11,3 @@ body {
     text-align: center;
     font-size: 50px;    
 }
-
-div {
-    margin-bottom: 0.25em;
-}
-/* margin determines spacing between elements */
-
-.primary-box {
-    background: #222;
-}
-
-.secondary-box {
-    background: #eee;
-    color: black;
-}
